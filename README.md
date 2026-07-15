@@ -1,4 +1,4 @@
-# 🌿 Dr. Maya: AI Mental Health Counselor for Students
+# 🌿  AI Mental Health Counselor for Students
 
 A specialized, CLI-based AI chatbot designed to provide warm, phased, and structured counseling for college students (ages 18-25). 
 
